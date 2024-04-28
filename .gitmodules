@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/eiparfenov/MlHack.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Midnight-Knight/digital_breakthrough.git
