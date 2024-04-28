@@ -4,3 +4,6 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/Midnight-Knight/digital_breakthrough.git
+[submodule "ML"]
+	path = ML
+	url = https://gitlab.com/Adiutant/ai_inference.git
