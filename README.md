@@ -10,6 +10,7 @@ MODEL_API - получение данных для анализа
 npm run dev - запуск в режиме разработчика\
 npm run build - создание prod сборки\
 npm run start - запуск prod сборки
+
 ## Backend
 ### Стек технологий
 - asp net minimal api;
